@@ -10,11 +10,11 @@ A Discrete Event Simulation (DES) model was developed to capture process interde
 ## Repository Contents
 This repository contains the following resources:
 
-**Data:** The raw data, processed data, and experimental results used for the development and validation of the DES model.
++ **Data:** The raw data, processed data, and experimental results used for the development and validation of the DES model.
 
-**Charts:** Visualizations showcasing the relationship between input parameters and the occurrence of faults, as well as hotspot regions in the final wound coil.
++ **Charts:** Visualizations showcasing the relationship between input parameters and the occurrence of faults, as well as hotspot regions in the final wound coil.
 
-**Documentation:** Detailed documentation explaining the methodology, implementation, and usage of the computational framework and DES model.
++ **Documentation:** Detailed documentation explaining the methodology, implementation, and usage of the computational framework and DES model.
 
 ## Future Work
 Potential future work includes integrating the model with live shop floor data to project the state of the coil and determine if or where defects are likely to occur. This real-time fault detection could significantly improve manufacturing efficiency and reduce waste in the electric motor industry.
