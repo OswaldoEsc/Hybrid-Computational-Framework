@@ -13,6 +13,7 @@ This repository contains the following resources:
 **Data:** The raw data, processed data, and experimental results used for the development and validation of the DES model.
 
 **Charts:** Visualizations showcasing the relationship between input parameters and the occurrence of faults, as well as hotspot regions in the final wound coil.
+
 **Documentation:** Detailed documentation explaining the methodology, implementation, and usage of the computational framework and DES model.
 
 ## Future Work
