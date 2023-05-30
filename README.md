@@ -1,4 +1,4 @@
-# Modelling-interdependencies-in-an-electric-motor-manufacturing-process-using-DES Repository
+# Hybrid Computational Framework for Fault Detection in Coil Winding Manufacturing Process Using Knowledge Distillation - Repository
 
 Welcome to the Electric Motor Manufacturing Fault Detection Repository! This project aims to minimize wasted time and costs associated with detecting faults in the manufacturing of electric motors by modeling process interdependencies and identifying faults early in the process.
 
